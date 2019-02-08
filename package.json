@@ -1,0 +1,19 @@
+{
+  "name": "searchapi",
+  "version": "1.0.0",
+  "description": "Search API using async/await",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumana91/SearchAPI_async_await.git"
+  },
+  "author": "Sumana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumana91/SearchAPI_async_await/issues"
+  },
+  "homepage": "https://github.com/sumana91/SearchAPI_async_await#readme"
+}
